@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mmili/Documents/ITbootcamp/Week8/jar fajlovi/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/apache-poi-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/commons-codec-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/commons-collections4-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/commons-logging-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/commons-math3-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/jakarta.activation-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/jakarta.validation-api-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/jakarta.xml.bind-api-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/javax.activation-1.0.7.0-jre12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/stax2-api-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmili/Downloads/stax-ex-1.8.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
